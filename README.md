@@ -1,4 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="download" width="100"/>
 </div>
- Hi there 👋
+ Hi there 👋![banner](https://github.com/AtharvaKarkar/AtharvaKarkar/assets/93367238/e9380885-cfb5-4a51-ab3b-04d1d9cbe175)
+
